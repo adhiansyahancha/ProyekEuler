@@ -17,12 +17,12 @@ Prinsip Inklusi-Eksklusi (PIE) adalah cara untuk menghitung jumlah elemen dalam 
 Kita ingin mengetahui jumlah himpunan gabungan kelipatan 3 atau 5 di bawah 20. Kita dapat menulis notasinya sebagai $|A ∪ B|$.
 
 Berikut himpunan kelipatan di bawah 20.
-$A = \{3, 6, 9, 12, 15, 18\}$
-$B = \{5, 10, 15\}$
+$$A = \{3, 6, 9, 12, 15, 18\}$$
+$$B = \{5, 10, 15\}$$
 
 Dari atas kita mengetahui bahwa $|A| = 6$ dan $|B| = 3$ sehingga jumlah keduanya adalah 9. Namun, kita juga menghitung dua kali 15. Untuk menghilangkan "duplikasi" ini, diperlukan pengurangan dari himpunan irisan 3 dan 5, atau yang bisa kita notasikan sebagai $|A ∩ B|$.
 
 Dengan PIE, kita bisa menghitung ulang jumlahnya dengan benar.  
-$|A ∪ B| = |A| + |B| - |A ∩ B|$
-$|A ∪ B| = 6 + 3 - 1$
-$|A ∪ B| = 8$
+$$|A ∪ B| = |A| + |B| - |A ∩ B|$$
+$$|A ∪ B| = 6 + 3 - 1$$
+$$|A ∪ B| = 8$$
