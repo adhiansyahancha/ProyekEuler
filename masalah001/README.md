@@ -12,7 +12,7 @@ Penyelesaian ini menggunakan cara _brute-force_. Sederhananya, program ini mengh
 Setiap bilangan yang memenuhi kondisi di atas akan ditambahkan ke `jumlah` yang menyimpan bilangan kondisional sebelumnya.
 
 ## Penjelasan solusi-pie.js
-Prinsip Inklusi-Eksklusi (PIE) adalah cara untuk menghitung jumlah elemen dalam sebuah himpunan gabungan. Berikut ini contoh cara kerjanya.
+Prinsip Inklusi-Eksklusi (PIE) adalah cara untuk menghitung jumlah elemen dalam sebuah himpunan gabungan. Berikut ini contoh cara kerjanya. Untuk leibh lengkapnya buka [https://math.mit.edu/~fox/MAT307-lecture04.pdf](https://math.mit.edu/~fox/MAT307-lecture04.pdf)
 
 Kita ingin mengetahui jumlah himpunan gabungan kelipatan 3 atau 5 di bawah 20. Kita dapat menulis notasinya sebagai `|A ∪ B|`.
 

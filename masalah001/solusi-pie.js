@@ -2,7 +2,6 @@
  * Penyelesaian masalah 1 Proyek Euler dengan cara
  * prinsip inklusi-eksklusif (PIE) dan deret aritmetika
  * 
- * Penjelasan tentang PIE: https://math.mit.edu/~fox/MAT307-lecture04.pdf
  */
 
 const sigmaKelipatan = (n, k) => {
